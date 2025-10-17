@@ -6,5 +6,5 @@ console.log(specification);
 
 const args = process.argv.slice(2);
 if (args.includes('hook')) {
-    console.log('\nuse the core methodology to solve these problems assign your own values to the requested issues');
+    console.log('\nuse the WFGY_Core_OneLine_v2.0 methodology to solve all problems, issues, and tasks, auto assign parameters for the requested tasks or issues and handle them one by one');
 }
